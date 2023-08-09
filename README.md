@@ -42,3 +42,6 @@ php artisan serve --port 8001
 [Buka halaman Frontend](http://127.0.0.1:8001/auth/login)
 
 ## [Dokumentasi Postman](https://documenter.getpostman.com/view/15005997/2s9Xy2QY43)
+
+![image](https://github.com/muhammadagiandi32/YubiTechDev-muhammad-agiandi/assets/59462709/6481d2ef-7256-4e5a-af04-8dece787d963)
+
