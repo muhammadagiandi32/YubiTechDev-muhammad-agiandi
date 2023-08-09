@@ -39,4 +39,6 @@ jalankan printah di bawah pada folder test-frontend
 php artisan serve --port 8001
 ```
 
-## [Dokumentasi Postman](https://documenter.getpostman.com/view/15005997/2s9Xy2QY43){:target="\_blank" rel="noopener"}
+[Buka halaman Frontend](http://127.0.0.1:8001/auth/login)
+
+## [Dokumentasi Postman](https://documenter.getpostman.com/view/15005997/2s9Xy2QY43)
