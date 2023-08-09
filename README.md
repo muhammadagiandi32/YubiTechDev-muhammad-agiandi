@@ -50,5 +50,13 @@ Perhatikan cara menjalankan artisan pada terminal VSCode pada gambar <br />
 Tamilan Awal  <br />
 ![image](https://github.com/muhammadagiandi32/YubiTechDev-muhammad-agiandi/assets/59462709/6481d2ef-7256-4e5a-af04-8dece787d963)
 
-
+## Login
+### email:
+```
+muhammadagiandi@gmail.com
+```
+### Password:
+```
+password
+```
 
