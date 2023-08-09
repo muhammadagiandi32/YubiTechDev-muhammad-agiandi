@@ -43,11 +43,11 @@ php artisan serve --port 8001
 
 ## [Dokumentasi Postman](https://documenter.getpostman.com/view/15005997/2s9Xy2QY43)
 ## Perhatikan Gambar Berikut
-pastikan value  JWT_SECRET pada .env backend dan frontend sama.
-Perhatikan cara menjalankan artisan pada terminal VSCode pada gambar
+pastikan value  JWT_SECRET pada .env backend dan frontend sama. <br />
+Perhatikan cara menjalankan artisan pada terminal VSCode pada gambar <br />
 ![image](https://github.com/muhammadagiandi32/YubiTechDev-muhammad-agiandi/assets/59462709/0129cdd4-b114-41df-b581-d08d82492d65)
 
-Tamilan Awal
+Tamilan Awal  <br />
 ![image](https://github.com/muhammadagiandi32/YubiTechDev-muhammad-agiandi/assets/59462709/6481d2ef-7256-4e5a-af04-8dece787d963)
 
 
