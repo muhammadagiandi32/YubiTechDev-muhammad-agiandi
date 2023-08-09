@@ -59,4 +59,12 @@ muhammadagiandi@gmail.com
 ```
 password
 ```
+## Halaman Dashboard
+![image](https://github.com/muhammadagiandi32/YubiTechDev-muhammad-agiandi/assets/59462709/24e371c9-d5b1-4a11-9e3e-4a495c0e2880)
+* Add Contact
+  * Untuk menambahkan Kontak Baru
+* Edit
+  * Untuk Merubah Kontak
+* Hapus
+  * Untuk Menghapus Baris Data
 
