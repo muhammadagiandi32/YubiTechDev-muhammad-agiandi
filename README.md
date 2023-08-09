@@ -1,6 +1,6 @@
 # Project Title
 
-Test Kompetensi - Fullstack Developer.
+Test Kompetensi - YubiTechDev.
 
 ## Getting Started
 
@@ -20,7 +20,16 @@ Berikut Langkah untuk menjalanankan.
 ```
 $ Buka folder test-backend/.env.example Copy seluruh isi file lalu paste dalam file test-backend/.env
 $ Buka folder test-frontend/.env.example Copy seluruh isi file lalu paste dalam file test-frontend/.env
-$ jalankan composer update dalam dua folder tersebut
-$ jalankan php artisan migrate:fresh --seed pada folder test-backend
+```
 
+jalankan composer update dua folder tersebut
+
+```
+composer update
+```
+
+jalankan printah di bawah pada folder test-backend
+
+```
+php artisan migrate:fresh --seed
 ```
