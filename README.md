@@ -39,6 +39,4 @@ jalankan printah di bawah pada folder test-frontend
 php artisan serve --port 8001
 ```
 
-## Dokumentasi Postman
-
-[a link](https://documenter.getpostman.com/view/15005997/2s9Xy2QY43)
+## [Dokumentasi Postman](https://documenter.getpostman.com/view/15005997/2s9Xy2QY43)
