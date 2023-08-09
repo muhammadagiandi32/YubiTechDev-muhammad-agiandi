@@ -1,7 +1,4 @@
-# Project Title
-
-Test Kompetensi - YubiTechDev.
-
+# Test Kompetensi Muhammad Agiandi
 ## Getting Started
 
 Aplikasi CRUD Sederhana dengan open API
