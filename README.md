@@ -17,10 +17,8 @@ Aplikasi CRUD Sederhana dengan open API
 
 Berikut Langkah untuk menjalanankan.
 
-```
-$ Buka folder test-backend/.env.example Copy seluruh isi file lalu paste dalam file test-backend/.env
-$ Buka folder test-frontend/.env.example Copy seluruh isi file lalu paste dalam file test-frontend/.env
-```
+Buka folder test-backend/.env.example Copy seluruh isi file lalu paste dalam file test-backend/.env
+Buka folder test-frontend/.env.example Copy seluruh isi file lalu paste dalam file test-frontend/.env
 
 jalankan composer update dua folder tersebut
 
@@ -32,4 +30,15 @@ jalankan printah di bawah pada folder test-backend
 
 ```
 php artisan migrate:fresh --seed
+php artisan serve --port 8000
 ```
+
+jalankan printah di bawah pada folder test-frontend
+
+```
+php artisan serve --port 8001
+```
+
+## Dokumentasi Postman
+
+[a link](https://documenter.getpostman.com/view/15005997/2s9Xy2QY43)
