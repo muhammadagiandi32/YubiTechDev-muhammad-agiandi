@@ -15,6 +15,7 @@ Aplikasi CRUD Sederhana dengan open API
 Berikut Langkah untuk menjalanankan.
 
 Buka folder test-backend/.env.example Copy seluruh isi file lalu paste dalam file test-backend/.env
+</br>
 Buka folder test-frontend/.env.example Copy seluruh isi file lalu paste dalam file test-frontend/.env
 
 jalankan composer update dua folder tersebut
